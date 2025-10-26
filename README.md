@@ -18,15 +18,25 @@ I'm a Frontend Developer who enjoys learning, designing and developing beautiful
 -  ## SKILLS
 <h3 align="center">💻 Languages & Tools</h3>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="30" height="30"/> <b>HTML</b>
-  <br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="30" height="30"/> <b>CSS</b>
-  <br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/> <b>JavaScript</b>
-  <br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="30" height="30"/> <b>React</b>
-</p>
+<div align="center">
+  <div>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="30" height="30"/>
+    <b>HTML</b>
+  </div>
+  <div>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="30" height="30"/>
+    <b>CSS</b>
+  </div>
+  <div>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/>
+    <b>JavaScript</b>
+  </div>
+  <div>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="30" height="30"/>
+    <b>React</b>
+  </div>
+</div>
+
 
 
 
