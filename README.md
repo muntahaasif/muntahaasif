@@ -18,7 +18,7 @@ I'm a Frontend Developer who enjoys learning, designing and developing beautiful
 -  ## SKILLS
 <h3>💻 Languages & Tools</h3>
 
-<table>
+
   <tr>
     <td>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30" height="30"/><br>
@@ -43,7 +43,7 @@ I'm a Frontend Developer who enjoys learning, designing and developing beautiful
       <b>React</b>
     </td>
   </tr>
-</table>
+
 
 
 
